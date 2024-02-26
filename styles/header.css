@@ -1,0 +1,23 @@
+header {
+  display: flex;
+  align-items: center;
+  column-gap: 64px;
+}
+
+header img {
+  width: 70px;
+  height: auto;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  column-gap: 48px;
+}
+
+.navigation_link {
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
